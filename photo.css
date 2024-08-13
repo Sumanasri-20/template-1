@@ -1,0 +1,40 @@
+h2{
+    text-align: center;
+}
+p{
+    padding-left: 40px;
+    width: 200px;
+}
+h5{
+    padding-left: 100px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border-style: solid;
+}
+.element1{
+    width:20%;
+    display: inline-block;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+.element2{
+    width: 20%;
+    display: inline-block;
+    padding-right: 2%;
+    vertical-align: top;
+}
+.element3{
+    width: 20%;
+    display: inline-block;
+    padding-right: 2%;
+    vertical-align: top;
+}
+.element4{
+    width: 20%;
+    display: inline-block;
+    padding-right: 2%;
+    vertical-align: top;
+}
